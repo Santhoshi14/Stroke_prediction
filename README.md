@@ -2,15 +2,11 @@ STROKE PREDICTION:
 This project aims to predict the likelihood of a person having a stroke based on various health-related features such as age, hypertension, heart disease, glucose level, BMI, and lifestyle factors.The solution uses Machine Learning algorithms to classify whether a patient is at risk of stroke or not.
 
 PROJECT OVERVIEW:
-Built a complete ML pipeline for healthcare risk prediction
-
-Performed data cleaning, feature engineering, and EDA
-
-Trained multiple ML models and compared accuracies
-
-Selected the best model based on performance metrics
-
-Evaluated using accuracy, precision, recall, F1-score
+Built a complete ML pipeline for healthcare risk prediction.
+Performed data cleaning, feature engineering, and EDA.
+Trained multiple ML models and compared accuracies.
+Selected the best model based on performance metrics.
+Evaluated using accuracy, precision, recall, F1-score.
 
 DATASET INFORMATION:
 Gender,
